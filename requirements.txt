@@ -1,0 +1,5 @@
+requests
+warnings
+urllib.parse
+socket
+multiprocessing
