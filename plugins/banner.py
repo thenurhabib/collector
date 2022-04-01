@@ -1,5 +1,5 @@
 __Name__ = "Collector"
-__Description__ = "Fetch all endpoints from a given domain"
+__Description__ = "Collect XSS vulnerable parameters from entire domain."
 __Author__ = "Md. Nur Habib"
 __Version__ = "1.0.0"
 
