@@ -9,15 +9,11 @@ import os
 import sys
 import argparse
 from plugins.banner import *
-try:
-    import requests
-    import warnings
-    import urllib.parse
-    import socket
-    import multiprocessing
-except ModuleNotFoundError:
-    print("Importing Some required modules.")
-    os.system("pip install -r requirements.txt")
+import requests
+import warnings
+import urllib.parse
+import socket
+import multiprocessing
 
 warnings.filterwarnings("ignore")
 
